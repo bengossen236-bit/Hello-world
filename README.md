@@ -5,5 +5,5 @@ a2= new chainsawGraphics b2 = old chainsawGraphics{
 {
 string a = b2
 string b = a2
-("/n chainsawgraphics") {
-{
+("/n chainsawgraphics") }
+}
